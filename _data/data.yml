@@ -15,9 +15,18 @@ sidebar:
     # Sidebar links
     email: hello@webjeda.com
     phone: 012 345 6789
+    
+    # https://docs.facilmap.org/users/search/#configure-a-browser-search-engine
+    # https://facilmap.org/#q={searchTerms}
+    # only insert your search term, e.g. your adress, splitted in to lines!
+    address:
+        number-street: 123 El Camino Real
+        city-state-zip: Palo Alto, CA 94301
+    
+    area: San Francisco Bay, United States
     timezone: America/Cancun Timezone
-    area: San Francisco Bay
-    citizenship:
+    born: 01.01.1970 in San Francisco
+    citizenship: USA
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     xing: alandoe
